@@ -1,2 +1,3 @@
 # LinuxLabor_Kravtsov
-Ansible LinuxLabor Oleksiy Kravtsov
+
+Hier findest du die wichtigsten configs, Ansible Playbooks und das CA Cert.
